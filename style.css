@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  
+  text-align: center;
+}
+
+nav{
+  margin-right: 50px;
+}
+nav a{
+  padding: 0 10px;
+  
+}
+
+img{
+  margin-left: 22%;
+}
+figcaption{
+  text-align: center;
+}
+
+figure ~ p{
+
+width:800px;
+text-align: center;
+margin-left: 25%;
+}
+#details div{
+  
+  float: left;
+  margin-left:15%;
+}
+
+
